@@ -1,0 +1,26 @@
+site_name: Natalia Personal Website
+site_url: https://contranata.github.io/new_personal/
+repo_name: personal_site
+repo_url: https://github.com/contranata/new_personal/
+edit_uri: ""
+#copyright: 
+# change directory names here
+docs_dir: doc
+site_dir: site
+theme:
+  name: material
+  # pretty colors! see https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons/material
+  palette:
+    primary: 'pink'
+    accent: 'black'
+  # fun logos! see https://material.io/icons/
+  logo:
+    icon: material/account-cowboy-hat
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+# optionally give a title for each page or section
+nav:
+  - Home: 'index.md'
+  - 'Resume': 'resume_july2021.md'
+  - 'About me': 'about_me.md'
