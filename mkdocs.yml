@@ -22,5 +22,5 @@ theme:
 # optionally give a title for each page or section
 nav:
   - Home: 'index.md'
-  - 'Resume': 'resume_july2021.md'
-  - 'About me': 'about_me.md'
+  - 'Resume': 'resume.md'
+  - 'About me': 'aboutme.md'
